@@ -1,6 +1,6 @@
 <script setup lang="ts">
 
-import Product from "~/pages/Product.vue";
+import Product from "~/pages/ProductList.vue";
 </script>
 
 <template>
