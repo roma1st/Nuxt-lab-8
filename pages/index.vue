@@ -1,12 +1,11 @@
-<script setup lang="ts">
-
-import Product from "~/pages/ProductList.vue";
-</script>
-
 <template>
-  <Product/>
+  <BlogPostsUI/>
 </template>
 
-<style scoped>
+<script setup lang="ts">
 
-</style>
+import BlogPostsUI from "~/pages/posts/index.vue";
+
+1
+</script>
+
